@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this project I combine Apollo Client with React in order to fetch remote data from a GraphQL endpoint.
+In this project I combine [Apollo Client](https://github.com/apollographql/apollo-client) with [React](https://facebook.github.io/react/) in order to fetch remote data from a [GraphQL](https://graphql.org/) endpoint.
 
 ### The project
 
